@@ -24,10 +24,10 @@ In data science, NumPy is used for data analysis, cleaning, transformation, and 
   ✅ cd NumPyTutorial   
   ✅ Create a virtual environment (recommended)   
   ✅ python -m venv venv   
-  ✅ source venv/bin/activate      # On Mac/Linux
-  ✅ venv\Scripts\activate          # On Windows
-  ✅ Install NumPy   
-  ✅ pip install numpy   
+  ✅ source venv/bin/activate      # On Mac/Linux   
+  ✅ venv\Scripts\activate         # On Windows   
+  ✅ Install NumPy     
+  ✅ pip install numpy     
   ✅ Run the script: python sales_analysis.py   
   ✅ Enter sales data when prompted and see the analysis results.   
      
